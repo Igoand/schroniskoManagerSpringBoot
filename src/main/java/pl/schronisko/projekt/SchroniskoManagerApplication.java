@@ -8,6 +8,8 @@ public class SchroniskoManagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SchroniskoManagerApplication.class, args);
+
+		System.out.println("Hello world!");
 	}
 
 }
